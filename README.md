@@ -1,25 +1,28 @@
-I notebook che si trovano in questa repository sono stati creati e pensati come complemento alle lezioni erogate presso l'Università di Firenze (AA. 2024/25).
-Si è voluto mantenere un interesse speciale riguardo all’intuitività degli argomenti che sono trattati, favorendone l’applicazione e l’intuitività della comprensione. Tutto il codice fornito è in Python.
+### Fonti e Libri di Riferimento
 
-I libri che sono stati utilizzati e che si sono rivelati di grande aiuto sono:
-- $Hands-On Machine Learning – Géron$
-Da qui sono stati presi gli esercizi che sono svolti nei notebook. Inoltre, questo libro risulta essere una reference fondamentale per come utilizzare Python per l’analisi dei dati, nonostante l’attenzione dell’autore si focalizzi principalmente sul Machine Learning.
-- $The Data Science Design Manual – Skiena, Steven S.$
-Questa fonte è stata molto importante per presentare tutti gli argomenti trattati in modo intuitivo.
-- $The Hundred-Page Machine Learning Book – Burkov, Andriy$
-In 100 pagine vengono presentati i temi più importanti del machine learning. Chiaramente il libro non ha nessuna pretesa di essere esauriente, ma si rivela essere un ottimo primo passo.
-- $An Introduction to Statistical Learning – James et al.$
-Questo libro è il complemento perfetto a quello di Géron. Mentre quello spazia molto nel mondo del machine learning, ponendo molta attenzione all’algoritmo stesso ed alla sua efficienza (visione ingegneristica), questo pone molta attenzione agli aspetti teorici degli algoritmi presentati, non perdendo mai, però, una squisita qualità espositiva (visione statistica).
+<img width="1951" height="2560" alt="image" src="https://github.com/user-attachments/assets/ecdd7a30-42f0-4cfe-a53b-9aad9884471d" />
 
-Si invita anche a dare un’occhiata alle seguenti repository:
-- https://github.com/ageron/handson-ml2
-Questa è la repository dove potrete trovare il codice del libro di Géron. Tanti esercizi sono svolti ed anche tante idee possono essere trovate per lo svolgimento di progetti per gli esami.
-- https://www.statlearning.com/
-Per trovare il PDF gratuito del libro di James & co.
-- http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf
-Per trovare il libro di Burkov.
+Il materiale e gli esercizi presenti nei notebook sono stati sviluppati ispirandosi e attingendo ai seguenti testi fondamentali:
 
-Per quanto riguarda le reti neurali che vengono trattate in maniera tutt'altro che easuriente nella cartella dedicata, si invita chi legge a dare un'occhiata ai seguenti link: 
-- **Tensorflow Hub** Qui e possibile scaricare e testare reti neurali gia allenate
-- **Tensorflow model su gutHub** La pagina GitHub di tensorflow e molto animata e piena di codice, progetti implementati con Keras ed anche dritte su come utilizzare al meglio questa API
+* **Hands-On Machine Learning (Géron):** Testo chiave da cui sono tratti molti esercizi e un riferimento essenziale per l'uso di Python nell'analisi dei dati e nel ML.
+* **An Introduction to Statistical Learning (James et al.):** Un eccellente complemento a Géron, con un focus più profondo sugli aspetti statistici e teorici degli algoritmi.
+* **The Data Science Design Manual (Skiena):** Utilizzato come fonte per un'esposizione intuitiva degli argomenti.
+* **The Hundred-Page Machine Learning Book (Burkov):** Un'ottima sintesi dei temi più importanti, ideale come primo passo.
 
+---
+
+### Risorse Esterne Consigliate
+Per approfondire, si invitano gli studenti a consultare le seguenti risorse:
+
+#### Repository e Testi
+* **Codice del libro di Géron:** [github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2)
+    * *Contiene il codice ufficiale del libro e molte idee per progetti.*
+* **PDF di "An Introduction to Statistical Learning":** [www.statlearning.com](https://www.statlearning.com/)
+    * *Il libro è disponibile gratuitamente sul sito ufficiale.*
+* **PDF di "The Hundred-Page Machine Learning Book":** [Link al PDF](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
+
+#### Approfondimenti su Reti Neurali
+La trattazione delle reti neurali in questi notebook non è esauriente. Per uno studio più avanzato, si consiglia:
+
+* **TensorFlow Hub:** Una vasta libreria per scaricare e testare modelli pre-allenati.
+* **TensorFlow su GitHub:** Repository ufficiale con codice, progetti implementati con Keras e guide.
